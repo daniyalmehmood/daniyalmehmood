@@ -18,8 +18,5 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 #### 📊 GitHub Stats
-![Daniyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniyalmehmood&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalmehmood&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=daniyalmehmood&theme=tokyonight)
