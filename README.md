@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Muhammad Daniyal Mehmood
 
-🎯 Full-stack **Java & Spring Boot** developer at **Codeline**, based in Oman.
-👨‍🏫 Mentor for the Code Champs & TRA Java Full-Stack cohorts.
+🎯 Full-stack **Java & Spring Boot** developer at **Rihal**, based in Oman.
+👨‍🏫 Mentor for the **Codeline** Java Full-Stack cohorts.
 
 - 🔭 Currently working on backend systems, dashboards, and digital-twin projects
 - 🌱 Deepening my skills in Spring Security, system design, and problem solving
