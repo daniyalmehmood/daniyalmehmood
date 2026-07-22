@@ -6,7 +6,7 @@
 - 🔭 Currently working on backend systems, dashboards, and digital-twin projects
 - 🌱 Deepening my skills in Spring Security, system design, and problem solving
 - 💬 Ask me about Java, Spring Boot, REST APIs, and OOP
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/daniyalazeem)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/daniyalazeemi)
 
 #### 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
